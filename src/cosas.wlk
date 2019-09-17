@@ -27,3 +27,4 @@ object plancha {
 	method esComida() { return false }
 	method esElectrodomestico() { return true }	
 }
+ 
